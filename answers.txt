@@ -2,7 +2,8 @@ Part 1: Hello from Ishya
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
+git fetch takes new information from the remote server 
 
 Task 2:
-// Under this line, describe the difference between Git and GitHub
+// git is a terminal command, while GitHub is a website where you can upload code.
 
