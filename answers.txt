@@ -5,5 +5,5 @@ Task 1:
 git fetch takes new information from the remote server 
 
 Task 2:
-// git is a terminal command, while GitHub is a website where you can upload code.
+// git is a terminal command, while GitHub is a website where you can upload codee.
 
